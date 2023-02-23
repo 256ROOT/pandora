@@ -15,7 +15,7 @@
 ## Showcase Video:
 - [Click Here ](https://mccteam.github.io/)
 
-## Tutorial Video:
+## Setup Tutorial Video:
 - [Click Here ](https://mccteam.github.io/)
 
 
