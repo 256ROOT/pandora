@@ -11,6 +11,7 @@
 - Auto Back
 - WebHook Info
 - BreakPos Up/Down
+- Anti ERCON
 
 ## Showcase Video:
 - [Click Here ](https://mccteam.github.io/)
