@@ -1,9 +1,11 @@
 # AutoFarm V3
+# Features:
+  Auto Take
+  Auto Drop
+  Auto Buy
+  Auto Back
+  WebHook Info
 
-
-
-<p><b>This text is bold</b></p> ggggg
-<p><i>This text is italic</i></p>
-<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+#
 
 
