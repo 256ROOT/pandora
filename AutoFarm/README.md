@@ -6,8 +6,7 @@
 
 
 
-Features:
-
+## Features:
 Auto Take
 Auto Drop
 Auto Buy
