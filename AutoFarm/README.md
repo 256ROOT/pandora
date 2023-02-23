@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.pics.rs/LLDhE.png" alt="Logo"/>
-
 # Minecraft Console Client (MCC)
 
 </div>
