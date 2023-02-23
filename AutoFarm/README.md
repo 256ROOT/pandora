@@ -7,10 +7,10 @@
 
 
 ## Features:
-Auto Take
-Auto Drop
-Auto Buy
-Auto Back
-WebHook Info
+- Auto Take
+- Auto Drop
+- Auto Buy
+- Auto Back
+- WebHook Info
 
 
