@@ -1,5 +1,5 @@
 # AutoFarm V3
-# Features:
+Features:
 
   Auto Take
   Auto Drop
