@@ -1,6 +1,6 @@
 <div align="center">
 
-# Minecraft Console Client (MCC)
+# AutoFarm V3
 
 </div>
 
